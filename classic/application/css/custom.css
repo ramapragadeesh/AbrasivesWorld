@@ -1,0 +1,45 @@
+#header a{
+color:white;
+font-size:14px;
+}
+.main_container
+{
+border:1px solid #D0D0D0;
+-moz-box-shadow:0 0 8px #D0D0D0;
+-webkit-box-shadow:0 0 8px #D0D0D0;
+box-shadow:0 0 8px #D0D0D0;
+margin:30px 30px 30px 30px;
+min-width:980px;
+background: #FFFFFF;
+}
+.header_text
+{
+background-color:rgb(113, 117, 121);
+color:rgb(248, 248, 248);
+height:30px;
+padding-left:20px;
+font-size:15px;
+line-height:25px;
+}
+.padme
+{
+padding-left: 10px;    
+}
+.infostyle
+{
+font-size: 12px;
+font-style: italic; 
+padding-left: 10px; 
+}
+.error{
+color: #e46c6e;
+}
+label.description_check { border:none; color:#222; display:block; font-size:14px;line-height:150%; padding-left:30px }
+
+label.description { border:none; color:#222; display:block; line-height:150%; padding:0 0 1px; }
+label.description { border:none; color:#222; display:block; font-size:14px%; line-height:150%; padding:0 0 1px; width: 20%; float: left; }
+.btn-custom
+{
+height: 35px;
+min-width:100px;
+}
